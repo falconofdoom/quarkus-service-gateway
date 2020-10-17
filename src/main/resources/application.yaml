@@ -1,0 +1,6 @@
+application:
+  name: service-gateway
+
+quarkus:
+  http:
+    port: 9090

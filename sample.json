@@ -1,0 +1,9 @@
+{
+     "subscriber_id" : "x-subscriber-john-doe",
+     "event_name" : "contactrequest",
+     "shared_secret" : "somesecret",
+     "context" : {
+     	"target_url" : "localhost:9090/webhook-receiver",
+     	"type" : "INBOUND_WEBHOOK"
+     }
+}
